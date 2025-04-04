@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="type_name">Введите имя</string>
+    <string name="choose_action">Выбрать действие</string>
+    <string name="result_here">Результат появится здесь</string>
+
+    <string name="name">Имя</string>
+    <string name="up_case">Привести к заглавным</string>
+    <string name="leave_as">Оставить как есть</string>
+
+</resources>
